@@ -1,0 +1,1 @@
+# sinatra_error_app
